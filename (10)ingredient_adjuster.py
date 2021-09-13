@@ -1,0 +1,8 @@
+cookies= input("How many cookies u want? ")
+sugar= 1.5 / 48 * int(cookies)
+butter= 1 / 48 * int(cookies)
+flour= 2.75 / 48 * int(cookies)
+print("U'll need")
+print("Dis many cups of sugar:", sugar)
+print("Dis many cups of butter:", butter)
+print("Dis many cups of flour:", flour)
